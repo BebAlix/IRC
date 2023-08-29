@@ -3,6 +3,7 @@
 School 42 project: (group)
 
 Server : ```./ircser <port 6665-6669> <keyword>```
+
 Client : cd Client/ ```./sic -h <localhost> -p <port> [-n <nickname>] [-k <keyword>]```
 
 Recreate an IRC chat [Internet Relay Chat: TCP/IP protocol to communicate by message on the internet] with the following basic commands:
